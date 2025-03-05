@@ -1,1 +1,11 @@
-body{background:red}
+body {
+  background: rgb(248, 245, 245);
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
