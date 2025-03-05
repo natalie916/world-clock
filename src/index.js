@@ -45,7 +45,8 @@ let cityName = cityTimeZone.replace("_", " ").split("/")[1];
  )}
  </small>
   </div>
-    </div>`;
+    </div>
+    <a href="index.html">Back to home page</a>`;
 }
 updateTime();
 setInterval(updateTime, 1000);
